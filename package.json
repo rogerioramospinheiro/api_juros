@@ -1,0 +1,20 @@
+{
+  "name": "api_juros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rogerio Pinheiro",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
